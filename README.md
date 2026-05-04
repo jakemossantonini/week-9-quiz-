@@ -23,7 +23,7 @@ A coding technique that could help create this effect is using both FFT sound an
 
 #### Coding Reference
 
-![FFT coding example screenshot](readmeImages/code train-code-example.png)
+![FFT coding example screenshot](readmeImages/code-train-code-example.png)
 
 Example demo from the coding train: 
 [Working with FFT using Processing and p5.js](https://www.youtube.com/watch?v=2O3nm0Nvbi4)
